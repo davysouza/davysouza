@@ -6,7 +6,9 @@
 My Name is Davy Souza and I'm computer scientist. I'm from São Paulo - Brazil, currently doing a Master's Degree in Computer Science at the University of São Paulo (USP) and working as a software developer.
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysouza" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=davysouza" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=davysouza&show_icons=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysouza&show_icons=true"/> -->
 
 <!--
 **davysouza/davysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
