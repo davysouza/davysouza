@@ -20,7 +20,7 @@ My Name is Davy Souza and I'm computer scientist. I'm from São Paulo - Brazil, 
   <img align="center" alt="Davy-CSharp" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   
   <img align="center" alt="Davy-Js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davy-Ts" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-plain.svg">
+  <img align="center" alt="Davy-Ts" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Davy-React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
   <img align="center" alt="Davy-Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
